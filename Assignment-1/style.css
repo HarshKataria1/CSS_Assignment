@@ -1,0 +1,46 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  font-style: italic;
+  color: rgb(58, 247, 0);
+}
+
+.linethrough {
+  text-decoration: line-through;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+.Italic {
+  font-style: italic;
+  text-decoration: underline;
+}
+ul {
+  letter-spacing: 1.5mm;
+  color: rgb(144, 56, 18);
+}
+.bold {
+  background-color: yellow;
+  font-weight: bold;
+}
+p {
+  color: rgb(144, 56, 18);
+  font-size: large;
+}
+.small {
+  color: rgb(144, 56, 18);
+  font-size: 5%;
+}
+div {
+  font-style: italic;
+  color: rgb(144, 56, 18);
+}
+a {
+  color: rgb(144, 56, 18);
+  background-color: yellow;
+}
